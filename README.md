@@ -5,10 +5,10 @@ This angular application:
 * It demonstrates how to do dependency injection in Angular 4
 
 Important files:
-* `src/app/app.module.ts`
-* `src/app/http.service.ts`
-* `src/app/lecture/lecture.component.ts`
-* `src/app/lecture/lecture.component.html`
+* [src/app/app.module.ts](https://github.com/kevinyk/services/blob/master/src/app/app.module.ts)
+* [src/app/http.service.ts](https://github.com/kevinyk/services/blob/master/src/app/http.service.ts)
+* [src/app/lecture/lecture.component.ts](https://github.com/kevinyk/services/blob/master/src/app/lecture/lecture.component.ts)
+* [src/app/lecture/lecture.component.html](https://github.com/kevinyk/services/blob/master/src/app/lecture/lecture.component.html)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
 
