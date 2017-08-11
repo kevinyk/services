@@ -1,10 +1,14 @@
 # ServiceLecture
 
 This angular application:
-
 * Uses a service injected with the Http Module to contact the pokemon API for a single pokemon, number 150.
-
 * It demonstrates how to do dependency injection in Angular 4
+
+Important files:
+* `src/app/app.module.ts`
+* `src/app/http.service.ts`
+* `src/app/lecture/lecture.component.ts`
+* `src/app/lecture/lecture.component.html`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
 
